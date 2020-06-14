@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/moreG.png</file>
+    <file>images/local.png</file>
+    <file>images/bq.png</file>
+    <file>images/file.png</file>
+    <file>images/gif.png</file>
+    <file>images/kinight.png</file>
+    <file>images/picture.png</file>
+    <file>images/ud.png</file>
+    <file>images/account.png</file>
+    <file>images/add.png</file>
+    <file>images/call.png</file>
+    <file>images/coat-.png</file>
+    <file>images/down_open.png</file>
+    <file>images/error.png</file>
+    <file>images/history.png</file>
+    <file>images/more.png</file>
+    <file>images/msg.png</file>
+    <file>images/right_open.png</file>
+    <file>images/search.png</file>
+    <file>images/video_call.png</file>
+    <file>images/chat.png</file>
+    <file>images/c.jpg</file>
+    <file>images/shi.png</file>
+    <file>images/1a.png</file>
+  </qresource>
+</RCC>
