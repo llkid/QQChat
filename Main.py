@@ -9,7 +9,7 @@
 from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5.QtWidgets import QAction, QMenu, QToolButton
 from PyQt5.QtCore import Qt
-from pyQt.From import coolChat_chat
+from QQChat.From import coolChat_chat
 import sys
 import ctypes
 

@@ -245,5 +245,5 @@ class Ui_MainWindow(object):
         self.actionCEnter.setText(_translate("MainWindow", "按Ctrl+Enter键换行"))
 
 
-from pyQt.Work.customTextEdit import CustomTextEdit
-import pyQt.chat_rc
+from QQChat.Work.customTextEdit import CustomTextEdit
+import QQChat.chat_rc
